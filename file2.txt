@@ -1,10 +1,6 @@
 For basic use, printf is the most direct
-BG
-B
-C
-C
-C
 C
  and portable alternative to echo. For multi-line output, cat with a heredoc can simplify the script.
 
-
+hi am lw learning git
+git is a version control system
