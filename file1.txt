@@ -4,4 +4,6 @@ Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
 hi hello how is everyone
 git is vcs 
 
+changed by developer 2 code
+=======
 changes in the developer 1 code
